@@ -283,4 +283,4 @@ Hit Enter and the cheat will execute!
 
 ---
 
-**Made by: Cookie Clicker Code Team**
+**Made by: TurtleHacksz**
