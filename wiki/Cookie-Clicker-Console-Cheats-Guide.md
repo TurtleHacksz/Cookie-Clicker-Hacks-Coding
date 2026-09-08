@@ -1,6 +1,6 @@
 # Cookie Clicker Cheats Guide
 
-**By Cookie Clicker Code Team**
+**By TurtleHacksz**
 
 A comprehensive guide to Cookie Clicker console cheats - from basic tricks to advanced exploits.
 
