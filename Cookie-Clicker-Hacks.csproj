@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>Cookie-Clicker-Hacks</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>TurtleHacksz</Authors>
+    <Company>TurtleHacksz</Company>
+    <PackageDescription>Cookie Clicker Hacks and Coding Examples</PackageDescription>
+    <RepositoryUrl>https://github.com/TurtleHacksz/Cookie-Clicker-Hacks-Coding</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+  </ItemGroup>
+
+</Project>
