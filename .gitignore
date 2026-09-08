@@ -1,0 +1,25 @@
+# NuGet
+nuget.config
+
+# Build results
+bin/
+obj/
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
