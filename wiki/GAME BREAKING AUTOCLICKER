@@ -1,0 +1,16 @@
+window.ultraClickerActive = true;
+
+function runUltraClicker() {
+    if (!window.ultraClickerActive) return;
+    
+    // Fires 100,000 click calls per rendering cycle
+    for (let i = 0; i < 1000000; i++) {
+        Game.ClickCookie();
+    }
+    
+    // Schedules the next batch instantly before the next repaint
+    requestAnimationFrame(runUltraClicker);
+}
+
+runUltraClicker();
+Game.Notify('Max-Speed Clicker I suck BRICKS', 'Executing 100,000+ clicks/sec!', [11, 5]);
